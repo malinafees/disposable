@@ -1,0 +1,56 @@
+[
+  {
+    "name": "gallery-01.png",
+    "width": 1280,
+    "height": 800,
+    "type": "png"
+  },
+  {
+    "name": "gallery-02.png",
+    "width": 1024,
+    "height": 1024,
+    "type": "png"
+  },
+  {
+    "name": "gallery-03.png",
+    "width": 1600,
+    "height": 900,
+    "type": "png"
+  },
+  {
+    "name": "gallery-04.jpg",
+    "width": 1280,
+    "height": 800,
+    "type": "jpeg"
+  },
+  {
+    "name": "gallery-05.jpg",
+    "width": 1920,
+    "height": 1080,
+    "type": "jpeg"
+  },
+  {
+    "name": "gallery-06.jpg",
+    "width": 1024,
+    "height": 768,
+    "type": "jpeg"
+  },
+  {
+    "name": "gallery-07.jpeg",
+    "width": 1280,
+    "height": 720,
+    "type": "jpeg"
+  },
+  {
+    "name": "gallery-08.jpeg",
+    "width": 800,
+    "height": 800,
+    "type": "jpeg"
+  },
+  {
+    "name": "gallery-09.jpeg",
+    "width": 1600,
+    "height": 1000,
+    "type": "jpeg"
+  }
+]
