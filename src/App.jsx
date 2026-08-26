@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="app">
       <header className="topbar">
-        <span className="brand">react-app-base</span>
+        <span className="brand">react-app-base CFP12177-BUILD-1</span>
         <nav>
           <NavLink to="/gallery">Gallery</NavLink>
           <NavLink to="/contact">Contact</NavLink>
