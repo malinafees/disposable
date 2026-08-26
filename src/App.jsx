@@ -4,12 +4,10 @@ import Contact from './pages/Contact.jsx'
 import './App.css'
 
 function App() {
-  throw new Error('CFP12177 deliberate breakage')
-
   return (
     <div className="app">
       <header className="topbar">
-        <span className="brand">react-app-base CFP12177-BUILD-3-BROKEN</span>
+        <span className="brand">react-app-base CFP12177-BUILD-RECOVERED</span>
         <nav>
           <NavLink to="/gallery">Gallery</NavLink>
           <NavLink to="/contact">Contact</NavLink>
